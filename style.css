@@ -4,3 +4,11 @@ h1{
 label{
     color: red;
 }
+canvas{
+    color: aqua;
+}
+
+.copy_right_footer{
+    background-color: aqua;
+    padding:center;
+}
