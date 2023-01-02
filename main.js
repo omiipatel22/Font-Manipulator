@@ -16,3 +16,7 @@ function draw() {
     background('#969A97');
 }
 
+function textSize() {
+   fill();
+}
+
